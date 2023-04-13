@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fawwaz Ramadhan Putra AKA @Omnusc 
 - 👀 I’m interested in Tech in general, and i also like gaming in my free time or going to the gym.
-- 🌱 I’m currently learning C and Phython, and interseted in full stack development
+- 🌱 I’m currently learning C, Python, and Javascript. Interested in full stack development
 - 📫 You can reach me at instagram @fawwaz_rp
 
 <!---
